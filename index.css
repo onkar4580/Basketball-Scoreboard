@@ -1,0 +1,93 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    width: 100%;
+    height: 100vh;
+    background-color: purple;
+    padding-left: 140px;
+    padding-top: 150px;
+    color: white;
+    text-align:left;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    height: 60vh;
+    background-color: purple;
+    text-align: left;
+    color: white;
+    padding-top: 40px;
+    border: 2px solid greenyellow;
+    border-radius: 20px;
+    padding-right: 100px;
+}
+
+.box1{
+  width: 200%;
+  height: 25vh;
+  background-color: black;
+  text-align: center;
+  color: yellow;
+
+}
+.box2 {
+    width: 200%;
+    height: 25vh;
+    background-color: black;
+    text-align: center;
+    color: yellow;
+}
+
+.heading1{
+    padding-left: 60px;
+}
+
+.heading2{
+    padding-left: 60px;
+    padding-bottom: 0cm;
+}
+
+#h1,#h2{
+    padding-top: 60px;
+    text-decoration-style: dashed;
+    font-size:10ch;
+    
+}
+
+.btn1{
+    width: 30%;
+    height: 10%;
+    background-color: purple;
+    border-radius: 10px;
+    border-color: white;
+    color: white;
+    cursor: pointer;
+
+}
+.btn2{
+    width: 30%;
+    height: 10%;
+    background-color: purple;
+    border-radius: 10px;
+    border-color: white;
+    color: white;
+    cursor: pointer;
+}
+.btn3{
+    width: 30%;
+    height: 10%;
+    background-color: purple;
+    border-radius: 10px;
+    border-color: white;
+    color: white;
+    cursor: pointer;
+
+}
+
+#lh{
+    padding-left: 20ch;
+}
